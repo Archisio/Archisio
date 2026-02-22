@@ -1,61 +1,91 @@
-# 💫 About Me
+<!-- Header – Who you are + key roles -->
+<h1 align="center">Hi 👋, I'm Archisio</h1>
+<h3 align="center">Founder & Software Engineer | Flutter & Go | Scalable Systems</h3>
 
-👋 Hi, I’m **Archisio** — a Software Developer focused on **Flutter**, **Golang**, and modern full-stack architectures. I build performant, scalable, and maintainable solutions using clean architecture principles.
-
-🚀 **Founder & Lead Developer at Paayenda Software Services**  
-Building digital products for real-world impact in Afghanistan since **January 2024**.  
-🌐 Portfolio: [archisio.dev](https://archisio.dev)
+<!-- Optional: Support badges / professional links -->
+<p align="center">
+  <a href="https://github.com/archisio">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=archisio&style=flat-square" />
+  </a>
+  <a href="https://www.linkedin.com/in/archisio">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/archisio">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:hello@archisio.dev">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧩 Projects
+## 👨‍💻 About Me
+I’m **Archisio** — a software engineer passionate about building scalable and user-focused products.  
+My core expertise lies in *Flutter*, *Go (Golang)*, and modern full-stack solutions. I architect systems that balance performance, maintainability, and real-world impact.
 
-- **Khanagi** – Afghanistan’s local-first e-commerce platform  
-- **Mehmaan** – Culturally tuned food delivery system for Afghan cuisine  
-- **Huda Learning** – Offline-capable LMS with interactive, localized education paths
+- 🔭 Currently building and scaling **local-first digital platforms**
+- 👨‍💼 Founder & Lead Developer at Paayenda Software Services
+- 🌍 Based in Kabul, Afghanistan
+- 📫 Reach me at: hello@archisio.dev
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-### Mobile & Web:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+### 🚀 Languages & Frameworks
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Backend & Cloud:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+### 🧩 Backend & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+## 📌 Featured Projects
+Here are some repositories I’ve worked on that reflect my core strengths:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Archisio)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/Archisio)
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=flat&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Archisio)
-[![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/Archisio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:archisio@icloud.com)
+📍 **Khanagi** – Local-first e-commerce platform for Afghan markets  
+📍 **Mehmaan** – Food delivery system tuned for cultural context  
+📍 **Huda Learning** – Offline-capable LMS with interactive learning paths  
+📍 **serverpod_admin_panel** – Admin UI for Serverpod backend  
+📍 **flutter-design-patterns** – Collection of Flutter design patterns  
+📍 **flutter_roadmap** – Opinionated roadmap for Flutter mastery
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archisio&theme=dark&show_icons=true&hide_border=false&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Archisio&theme=dark&layout=compact&hide_border=false)
+(*Tip: pin these repos on your GitHub profile for maximum visibility.*):contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Archisio&theme=darkhub&no-frame=false&margin-w=8)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=archisio&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=archisio&theme=transparent" height="170"/>
+</p>
 
 ---
 
-> 💬 *“Programs must be written for people to read, and only incidentally for machines to execute.”* — Harold Abelson
+## 📊 Development Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archisio&theme=transparent" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Archisio&icon=0&color=0)](https://visitcount.itsvg.in)
+## 📫 Connect With Me
+Let’s build something meaningful or collaborate on open source!
+
+- 🌐 Website: https://archisio.dev
+- 💼 LinkedIn: https://www.linkedin.com/in/archisio
+- 🐦 Twitter / X: https://twitter.com/archisio
+- 📧 Email: hello@archisio.dev
+
+---
+
+*“Simplicity is prerequisite for reliability.”* — Edsger W. Dijkstra
