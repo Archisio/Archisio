@@ -1,8 +1,10 @@
-<!-- Header – Who you are + key roles -->
-<h1 align="center">Hi 👋, I'm Archisio</h1>
-<h3 align="center">Founder & Software Engineer | Flutter & Go | Scalable Systems</h3>
+<h1 align="center">
+  Hi 👋, I'm Archisio
+</h1>
+<h3 align="center">
+  Founder & Software Engineer | Flutter & Go | Scalable Systems
+</h3>
 
-<!-- Optional: Support badges / professional links -->
 <p align="center">
   <a href="https://github.com/archisio">
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=archisio&style=flat-square" />
@@ -50,14 +52,11 @@ My core expertise lies in *Flutter*, *Go (Golang)*, and modern full-stack soluti
 ## 📌 Featured Projects
 Here are some repositories I’ve worked on that reflect my core strengths:
 
-📍 **Khanagi** – Local-first e-commerce platform for Afghan markets  
-📍 **Mehmaan** – Food delivery system tuned for cultural context  
-📍 **Huda Learning** – Offline-capable LMS with interactive learning paths  
-📍 **serverpod_admin_panel** – Admin UI for Serverpod backend  
-📍 **flutter-design-patterns** – Collection of Flutter design patterns  
-📍 **flutter_roadmap** – Opinionated roadmap for Flutter mastery
+📍 **Khanagi** – Local-first e-commerce platform for Afghan markets
 
-(*Tip: pin these repos on your GitHub profile for maximum visibility.*):contentReference[oaicite:1]{index=1}
+📍 **Mehmaan** – Food delivery system tuned for cultural context
+
+📍 **Huda Learning** – Offline-capable LMS with interactive learning paths
 
 ---
 
